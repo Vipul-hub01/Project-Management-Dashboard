@@ -34,3 +34,35 @@ It highlights key financial metrics, project progress, resource assignment, and 
   <img src="Dashboard Preview/Project Manager Dashboard Preview.png">
 </p>
 
+---
+
+## 🛠️ Tools & Technologies Used
+
+| Tool | Purpose |
+|------|---------|
+| **Power BI** | Dashboard Development & Data Visualization |
+| **Excel / CSV** | Source Dataset |
+| **DAX** | KPI Metrics & Calculations |
+
+---
+
+## 📦 How to Use
+
+1. Clone or download this repository.
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. If needed, update the dataset source path.
+4. Refresh the data.
+
+---
+
+## 👤 Developed By
+
+**Vipul**
+
+---
+
+## ⭐ Support
+
+If you like this dashboard, consider giving the repository a **Star ⭐** on GitHub!
+
+
