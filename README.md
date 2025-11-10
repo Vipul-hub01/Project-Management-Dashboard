@@ -30,5 +30,5 @@ It highlights key financial metrics, project progress, resource assignment, and 
 
 ## 🗂️ Dashboard Preview
 
-> 
+> Dashboard Preview/Project Manager Dashboard Preview.png
 
