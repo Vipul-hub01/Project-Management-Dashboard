@@ -31,6 +31,6 @@ It highlights key financial metrics, project progress, resource assignment, and 
 ## 🗂️ Dashboard Preview
 
 > <p align="center">
-  <img src="images/Heart Disease Analysis Image.png">
+  <img src="Dashboard Preview/Project Manager Dashboard Preview.png">
 </p>
 
